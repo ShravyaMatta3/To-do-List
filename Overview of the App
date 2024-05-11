@@ -1,0 +1,27 @@
+# Todo List App
+
+## Overview
+This is a simple todo list application built using Python and Flask. It allows users to add new tasks to their todo list, mark tasks as completed, and delete tasks they no longer need.
+
+## Features
+- Add new tasks: Users can enter a new task in the input field and click "Add" to add it to the list.
+- View tasks: Users can see their existing tasks listed on the page.
+- Delete tasks: Users can remove tasks from the list by clicking the "Delete" button next to each task.
+
+## Technologies Used
+- Python: The backend logic of the application is written in Python.
+- Flask: Flask is used as the web framework to handle HTTP requests and responses.
+- HTML/CSS: Simple HTML templates with Bootstrap for basic styling.
+
+## Getting Started
+1. Clone this repository to your local machine.
+2. Install Python if you haven't already.
+3. Install Flask by running `pip install Flask`.
+4. Run the application by executing `python app.py` in your terminal.
+5. Open your web browser and navigate to `http://localhost:5000` to use the app.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
